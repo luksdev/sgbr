@@ -66,7 +66,7 @@ docker-compose exec app php artisan serve --host 0.0.0.0 --port 8000
 9. Seeders (opcional)
 
 ```sh
-docker-compose exec app php artisan db:seed
+docker-compose exec app php artisan db:seed --class=PlaceSeeder
 ```
 
 ## Rotas
