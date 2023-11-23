@@ -18,7 +18,7 @@ Este projeto é uma API RESTful para gerenciar locais. Ele permite criar, listar
 1. Clone o repositório
 
 ```sh
-git clone
+git clone https://github.com/luksdev/sgbr.git
 ```
 
 2. Instale as dependências
